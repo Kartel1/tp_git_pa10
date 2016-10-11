@@ -1,4 +1,4 @@
-# TP GIT PA10
+﻿# TP GIT PA10
 
 - Mathieu TUDISCO,
 - Flore de LASTEYRIE,
@@ -13,6 +13,7 @@
 - Antoine ALBIN,
 - Adrien LEMAISTRE,
 - Roman CHANDLER-FRY,
+- Loïck LUTIN.
 
 
 

@@ -13,7 +13,7 @@
 - Antoine ALBIN,
 - Adrien LEMAISTRE,
 - Roman CHANDLER-FRY,
-- Loïck LUTIN,
+- Loïck LUTIN!
 
 
 
